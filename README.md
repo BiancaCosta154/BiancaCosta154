@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu me chamo Bianca 🙋🏻‍♀️</h1>
-<h3 align="center">🖥Estudante de Análise e Desenvolvimento De Sistemas</h3>
+<h3 align="center">🖥Estudante de Análise e Desenvolvimento De Sistemas (4º período)</h3>
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
