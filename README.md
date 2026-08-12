@@ -1,4 +1,4 @@
-<h3 align="center">🖥 Estudante de Análise e Desenvolvimento De Sistemas</h3>
+<h3 align="center">Estudante de Sistemas de Informação</h3>
 <hr>
 
 
